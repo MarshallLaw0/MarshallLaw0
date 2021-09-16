@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @MarshallLaw0
-- 👀 I’m interested in ... Video Games, Illustration, Drawing, making my own characters, dogs/cats, & Sleeping
+- 👋 Hi, I’m @MarshallLaw0, also known as Marshall Law, Great Marshall Law, The Grand Marshall Law, Spooks McGee or just Michelle
+- 👀 I’m interested in ... Video Games, Illustration, Drawing, making my own characters, Graphic/Web Design, dogs/cats, memes, & Sleeping
 - 🌱 I’m currently learning ... Game Design
-- 📫 How to reach me ...email: michellequiroz729@gmail.com
-
-<!---
-MarshallLaw0/MarshallLaw0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ...email: michellequiroz729@.com
